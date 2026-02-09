@@ -1,3 +1,13 @@
+## Forked Team Project
+
+**My Contributions:**
+- Implemented OCR-based bill analysis using Google Cloud Vision API
+- Extracted and categorized expense data using regex/NLP
+- Developed expense visualization for spending insights
+- Contributed to stock prediction module using Yahoo Finance API
+- Implemented time-series forecasting using Facebook Prophet
+
+---
 # Advanced Banking + AI — Local Runnable (Option B)
 
 See backend, services/ai_advisor, and frontend folders for steps.
